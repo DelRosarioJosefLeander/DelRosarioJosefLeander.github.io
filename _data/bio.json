@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
     "email": "josef4@hawaii.edu",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://delrosariojosefleander.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "profiles": [
       { "network": "github", "username": "delrosariojosefleander", "url": "http://github.com/delrosariojosefleander" },
@@ -12,9 +12,9 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" }
+    { "name": "Game Design" },
+    { "name": "Network Design" },
+    { "name": "Application Design" }
   ],
   "skills": [
     {
