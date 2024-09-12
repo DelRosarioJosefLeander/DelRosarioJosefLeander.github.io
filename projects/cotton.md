@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "Sudoku Solver"
+date: 2024
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Java
+  - Gaming
+summary: "A Java program that solves sudoku puzzles."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
