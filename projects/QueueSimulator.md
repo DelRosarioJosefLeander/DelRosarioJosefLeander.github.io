@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
+title: "Queue Simulation"
 date: 2015
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Java
+  - Software Engineering
+  - Simulation
 summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
 ---
 
