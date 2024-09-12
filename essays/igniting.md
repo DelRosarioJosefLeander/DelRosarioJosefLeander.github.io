@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "TypeScript: A Learning Experience"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2024-09-05
 published: true
 labels:
   - Software Engineering
@@ -12,8 +12,6 @@ labels:
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+In order to learn TypeScript, one must first understand JavaScript, as TypeScript is a superset of JavaScript that allows developers to add data types to their variables and much more. Initially, I found the exclusion of data types in JavaScript to be very jarring, as the other programming languages I’ve studied use data types. TypeScript has proven to be useful in many ways when writing JavaScript code, especially when dealing with functions and improving program readability. I feel that if I were to work on larger projects in JavaScript, I would spend more time trying to read the code because it feels less organized than what I am used to.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+Learning something new always requires a good amount of effort, and this includes the topic of this paper: TypeScript. As mentioned before, I found studying JavaScript quite jarring because of its differences from the other programming languages I’ve studied, especially when dealing with data types. I feel as if my understanding of JavaScript and TypeScript has only scratched the surface. However, I’m eager to dive deeper and continue building my skills in both languages. With time and practice, I hope to become proficient in both programming languages.
