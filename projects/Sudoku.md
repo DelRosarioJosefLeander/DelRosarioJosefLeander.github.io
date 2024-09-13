@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/sudoku.png
 title: "Sudoku Solver"
 date: 2024
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A Java program that solves sudoku puzzles."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/sudoku.png">
 
 ### Sudoku Solver and Validator
 
