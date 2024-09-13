@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/queue.png
 title: "Queue Simulation"
 date: 2024
 published: true
@@ -12,9 +12,7 @@ labels:
 summary: "This Java program simulates customer queueing and service times using either a single queue or multiple queues, comparing their total wait times over the course of a day."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-</div>
+<img class="img-fluid" src="../img/line.png">
 
 This Java program simulates a queue system for servicing customers using either a single queue or multiple queues. The program generates random customer arrival and service times, then sorts the customers by their arrival time. It evaluates the system's performance by calculating the total wait time for all customers.
 
