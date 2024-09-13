@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/calc.png
 title: "Calculator"
 date: 2024
 published: true
@@ -10,7 +10,7 @@ labels:
 summary: "This Java program implements a stack-based calculator that performs basic arithmetic operations using a custom stack class to handle numbers and operators in a Last-In-First-Out (LIFO) order."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/calculatorImage.png">
 
 This program implements a stack-based calculator using Java, allowing users to input numbers and operators to perform basic arithmetic operations in a Last-In-First-Out (LIFO) manner. It uses a custom stack class (ArrayStack<E>) to store and manipulate values, supporting standard stack operations such as push(), pop(), peek(), and size checking.
 
