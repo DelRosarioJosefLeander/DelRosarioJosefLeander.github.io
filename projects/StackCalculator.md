@@ -30,7 +30,7 @@ This program implements a stack-based calculator using Java, allowing users to i
    - The calculator keeps running until the user inputs "=" to terminate.
 
 4. **Error Handling**: 
-   - If the stack is full, a `FullStackException` is thrown.
+   - If the stack is full, a FullStackException is thrown.
    - If there are insufficient numbers for an operation, a message is displayed.
 
 ### Example Usage:
