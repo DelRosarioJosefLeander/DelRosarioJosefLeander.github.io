@@ -9,6 +9,7 @@ labels:
   - Software Engineering
   - Learning
 ---
+<img class="img-fluid" src="../img/const.jpg">
 
 Coding standards are a set of guidelines and best practices that developers follow to write code that is clean, consistent, and maintainable. Adhering to these standards is crucial for a variety of reasons:
 
